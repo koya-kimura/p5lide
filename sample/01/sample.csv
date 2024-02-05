@@ -1,0 +1,6 @@
+text,x,y,color,size,animationStartTime,animationTime,inAnimationTime,outAnimationTime,inAnimation,outAnimation,mode
+Future Technology,0.5,0.5,#000,0.05,1,2,0.5,0.5,fadeIn,fadeOut,CENTER
+技術革新を通じて未来を変革する,0.5,0.5,#000,0.05,3,2,0.5,0.5,slideInLeft,slideOutRight,CENTER
+人々の生活をより便利で持続可能なものにする,0.5,0.5,#000,0.05,5,2,0.5,0.5,slideInUp,slideOutDown,CENTER
+ユーザーの生活をよりスマートにし、持続可能な未来を実現する,0.5,0.5,#000,0.05,7,2,0.5,0.5,slideInDown,slideOutUp,CENTER
+よりスマートで持続可能な社会の実現を,0.5,0.5,#000,0.05,9,2,0.5,0.5,zoomIn,zoomOut,CENTER
